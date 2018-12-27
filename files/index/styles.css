@@ -276,3 +276,25 @@
   width:62px;
   word-wrap:break-word;
 }
+#u20_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:550px;
+  height:550px;
+}
+#u20 {
+  position:absolute;
+  left:692px;
+  top:271px;
+  width:550px;
+  height:550px;
+}
+#u21 {
+  position:absolute;
+  left:2px;
+  top:267px;
+  width:546px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
